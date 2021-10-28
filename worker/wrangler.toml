@@ -1,0 +1,13 @@
+name = "listlink"
+type = "javascript"
+
+compatibility_date = "2021-10-28"
+
+account_id = "6976cbd8de1b50d46a4b4d877277e7b0"
+workers_dev = true
+route = "*.listlink.io/@*"
+zone_id = "515a9c5e755f5375caec34c8faa12f77"
+
+kv_namespaces = [ 
+  { binding = "listlink", id = "c572f8d610194db78f8e9ae9f3d52765" }
+]
